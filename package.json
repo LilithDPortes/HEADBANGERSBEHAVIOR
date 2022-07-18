@@ -3,6 +3,6 @@
     "cowsay": "^1.5.0"
   },
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "webpack --config index.js"
   }
 }
